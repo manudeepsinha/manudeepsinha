@@ -1,7 +1,7 @@
 ### 👋 Welcome to my github profile! 👋
 I recently graduated 🎓 from UIT, Barkatullah University, Bhopal, India in Computer Science and Engineering. 💻 It has been a great journey with abrupt ending due to COVID-19. 🦇😷 
 
-- 🔭 I’m currently working on optimizing my college's major project and my website. 
+- 🔭 I’m currently working on optimizing my college's major project and my portfolio website: https://manudeepsinha.ml
 - 🌱 I’m currently learning various FOSS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with C++
