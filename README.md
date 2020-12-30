@@ -3,7 +3,6 @@ I recently graduated 🎓 from UIT, Barkatullah University, Bhopal, India in Com
 
 - 🔭 I’m currently working on optimizing my college's major project and my portfolio website: https://manudeepsinha.ml
 - 🌱 I’m currently learning various FOSS.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about Chess, Python or MySQL
 - 📫 How to reach me: https://www.linkedin.com/in/manudeepsinha/
