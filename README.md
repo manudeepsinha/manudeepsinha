@@ -1,10 +1,10 @@
 ### 👋 Welcome to my github profile! 👋
-I recently graduated 🎓 from UIT, Barkatullah University, Bhopal, India in Computer Science and Engineering. 💻 It has been a great journey with abrupt ending due to COVID-19. 🦇😷 I love working with Python and databases. I love talking about environmentalism and minimalism, that will surely reflect on my code. Whenever I'm not learning or coding, you'll find me playing chess online.
+I recently graduated 🎓 from UIT, Barkatullah University, Bhopal, India in Computer Science and Engineering. 💻 It has been a great journey with abrupt ending due to COVID-19. 🦇😷 I love working with Python and databases. I love talking about environmentalism and minimalism, that will surely reflect on my code. Whenever I'm not learning or coding, you'll find me playing chess online or rewatching The Office.
 
 - 🔭 I’m currently working on optimizing my college's major project and my portfolio website: https://manudeepsinha.ml
-- 🌱 I’m currently learning Git and C++
-- 🤔 I’m looking for help with C++
-- 💬 Ask me about Chess, Python or MySQL
+- 🌱 I’m currently learning Java and C++
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about Python or MySQL, and if you're maybe so bold, challenge me on Chess.com!
 - 📫 How to reach me: https://www.linkedin.com/in/manudeepsinha/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love eating piping hot momos 🥟 with lots of red chutney 🔥 
