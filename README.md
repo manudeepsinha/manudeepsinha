@@ -5,7 +5,7 @@ I recently graduated 🎓 from UIT, Barkatullah University, Bhopal, India in Com
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with job as a software developer.
 - 💬 Ask me about Python or MySQL. I also know tons of great resources out there!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/manudeepsinha/">LinkedIn
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/manudeepsinha/">LinkedIn</a>
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love eating piping hot momos 🥟 with lots of red chutney 🔥 
 
