@@ -7,7 +7,7 @@ I currently work in Tata Consultancy Services (TCS, Gandhinagar) as System Engin
 - 💬 Ask me about Python or MySQL. I also know tons of great resources out there!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/manudeepsinha/" target="_blank">LinkedIn</a>
 - 😄 Pronouns: <a href = "https://pronoun.is/he">he/him</a>.
-- ⚡ Fun fact: I love playing chess and probably give you a hardtime in the game. My at <a href="https://www.chess.com/member/msatan" target="_blank">Chess.com profile.</a>
+- ⚡ Fun fact: I love playing chess and probably give you a hardtime in the game. My <a href="https://www.chess.com/member/msatan" target="_blank">Chess.com profile.</a>
 
 <!--
 **manudeepsinha/manudeepsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
