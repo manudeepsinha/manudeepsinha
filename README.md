@@ -1,10 +1,15 @@
 Hi, I'm Manudeep Sinha 👋
-I'm a Java Full Stack Developer at TCS, with 2 years of experience in software development. I graduated🎓 from UIT, Barkatullah University, Bhopal, India with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for financial institutions.
+I'm a GenAI Engineer at TCS, with 3+ years of experience in software development. I graduated🎓 from UIT, Barkatullah University, Bhopal, India with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for financial institutions.
 
 🚀 My Skills
-Java
-Spring Framework
-HTML/CSS/JavaScript
+Python (of course!)
+NLP
+NLG
+GenAI
+GPT
+LLM
+GAN
+ChatBots
 SQL
 Git
 
