@@ -1,5 +1,5 @@
 Hi, I'm Manudeep Sinha 👋
-I'm a GenAI Engineer at TCS, with 3+ years of experience in software development. I graduated🎓 from UIT, Barkatullah University, Bhopal, India with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for financial institutions.
+I'm a GenAI Engineer at TCS, with 3+ years of experience in software development. I graduated🎓 with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for financial institutions.
 
 🚀 My Skills
 Python (of course!)
@@ -9,6 +9,9 @@ GenAI
 GPT
 LLM
 GAN
+RAG
+LangChain
+Pytorch
 ChatBots
 SQL
 Git
@@ -19,7 +22,7 @@ Here are a few projects that I've worked on:
 Facial Recognition using OpenCV: This project uses OpenCV to recognize faces in real-time and recognizes with already saved data of person to authorize them.
 
 🌱 What I'm Currently Learning
-I'm currently working on my portfolio website to showcase my skills and experience. I'm also interested in learning more about bloackchain and AI.
+I'm currently working on my portfolio website to showcase my skills and experience. 
 
 🎨 My Interests
 I'm into minimalism and try to keep things simple and clutter-free (it reflects in my code). In my free time, I love to code for myself, read online articles, and learn new things. I also enjoy watching movies and TV shows (The Office >>>), playing guitar, and playing chess.
