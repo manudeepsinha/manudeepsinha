@@ -1,33 +1,33 @@
 Hi, I'm Manudeep Sinha 👋
-I'm a GenAI Engineer at TCS, with 3+ years of experience in software development. I graduated🎓 with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for financial institutions.
+I'm a GenAI Engineer at TCS, with 4+ years of experience in software development. I graduated🎓 with a degree in Computer Science. I love working with databases and have experience in developing and maintaining database-driven applications for retail industry and financial institutions.
 
-🚀 My Skills
-Python (of course!)
-NLP
-NLG
-GenAI
-GPT
-LLM
-GAN
-RAG
-LangChain
-Pytorch
-ChatBots
-SQL
+🚀 My Skills ->
+Python (of course!) | 
+Azure | 
+FastAPI | 
+NLP | 
+LLM | 
+Transformers | 
+GAN | 
+RAG | 
+LangChain | 
+Pytorch | 
+SQL | 
 Git
-
+<!--
 💻 My Projects
 Here are a few projects that I've worked on:
 
 Facial Recognition using OpenCV: This project uses OpenCV to recognize faces in real-time and recognizes with already saved data of person to authorize them.
-
-🌱 What I'm Currently Learning
+-->
+🌱 What I'm Currently Learning ->
 I'm currently working on my portfolio website to showcase my skills and experience. 
+I'm also making a RAG based chatbot and exploring Agentic AI using LangGraph.
 
-🎨 My Interests
+🎨 My Interests ->
 I'm into minimalism and try to keep things simple and clutter-free (it reflects in my code). In my free time, I love to code for myself, read online articles, and learn new things. I also enjoy watching movies and TV shows (The Office >>>), playing guitar, and playing chess.
 
-📫 How to Reach Me
+📫 How to Reach Me ->
 You can reach me through following:
 📧 mailto: s.manudeep99@gmail.com
 💼 My <a href="https://www.linkedin.com/in/manudeepsinha/" target="_blank">LinkedIn</a>
